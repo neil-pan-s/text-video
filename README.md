@@ -13,7 +13,7 @@ Demo: https://one-quant.com/#/tv
 
 ### 文字颜色
 
-```json
+```js
 [
   { label: '桜色', jp: 'さくらいろ', color: '#fef4f4' },
   { label: '小豆色', jp: 'あずきいろ', color: '#96514d' },
@@ -485,6 +485,7 @@ Demo: https://one-quant.com/#/tv
 
 ### 文字动画
 
+```js
 [
   /* Attention seekers  */
   'bounce',
@@ -565,3 +566,4 @@ Demo: https://one-quant.com/#/tv
   'slideInRight',
   'slideInUp',
 ]
+```
