@@ -3,8 +3,6 @@
 
 https://user-images.githubusercontent.com/2844717/174720839-8f745edb-352b-4575-9f87-ee6a7fc32002.mp4
 
-Demo: https://one-quant.com/#/tv
-
 ## 文字随机属性
 
 ### 文字大小
@@ -568,9 +566,6 @@ Demo: https://one-quant.com/#/tv
 ]
 ```
 
-## 赞助一杯咖啡
-
-![neil0pan0s](https://user-images.githubusercontent.com/2844717/174723782-70054cd9-455e-434b-9c3e-7f8a0c297c6e.jpg)
 
 
 
